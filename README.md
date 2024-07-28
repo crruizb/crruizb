@@ -26,9 +26,8 @@
 <h4>Backend technologies</h4>
 <ul>
   <li>Go</li>
-  <li>Kotlin</li>
-  <li>Java</li>
-  <li>Spring Boot</li>
+  <li>Kotlin, Ktor</li>
+  <li>Java, Spring Boot</li>
 </ul>
 
 <h4>Databases</h4>
