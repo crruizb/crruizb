@@ -43,6 +43,7 @@
 <ul>
   <li>Terraform</li>
   <li>Kubernetes</li>
+  <li>GH Actions</li>
   <li>GCP</li>
   <li>AWS</li>
   <li>Azure</li>
